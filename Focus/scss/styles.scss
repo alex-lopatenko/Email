@@ -1,0 +1,60 @@
+@import "foundation";
+
+
+
+.one-bag {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.loren-text {
+    font-size: 12px;
+    color: #222222;
+    font-family: $body-font-family;
+}
+
+.iphon-text {
+    font-size: 13px;
+    color: #222222;
+    font-family: $body-font-family;
+    font-weight: bold;
+}
+
+.link-text-title {
+    font-family: $body-font-family;
+    font-size: 13px;
+    color: #222222;
+    font-weight: bold;
+}
+
+.link-text-subtitle {
+    font-family: $body-font-family;
+    font-size: 13px;
+    color: #c0c0c0;
+    font-weight: bold;
+}
+
+.portfolio-text {
+    font-family: $body-font-family;
+    font-size: 13px;
+    color: #000;
+}
+
+.last-link {
+    font-family: $body-font-family;
+    font-size: 13px;
+    color: #c0c0c0 !important;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #f5f5f5;
+}
+
+.footer-link {
+    font-family: $body-font-family;
+    font-size: 13px;
+    color: #000 !important;
+    font-weight: bold;
+}
